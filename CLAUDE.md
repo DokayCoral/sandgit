@@ -1,0 +1,1 @@
+当你的工作涉及skill设计时，请参考@skills-writing-rules.md中的内容。

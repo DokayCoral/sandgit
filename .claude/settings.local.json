@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p .claude/skills)",
+      "Bash(touch .claude/skills/flow-sdd-base-sync.md .claude/skills/flow-sdd-test-branch-run.md .claude/skills/flow-sdd-test-finalize.md .claude/skills/flow-sdd-code-branch-run.md .claude/skills/flow-sdd-code-finalize.md .claude/skills/flow-sdd-branch-abort.md)",
+      "Bash(touch sandgit-rules.md)"
+    ]
+  }
+}
